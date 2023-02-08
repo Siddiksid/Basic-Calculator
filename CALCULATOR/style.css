@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500&family=Roboto&display=swap');
+*{
+    font-family: "Roboto";
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    width: 66px;
+    border: 2px solid #000;
+    border-radius: 9px;
+    cursor: pointer;
+   
+}
+
+
+.row{
+    margin: 12px 0;
+}
+
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding:10px 0;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 291px;
+    
+}
+.one{
+    padding-inline:38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* utility classes */
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin:  auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+  
+}
+.items-center{
+    justify-content: center;
+    align-items: center;
+}
